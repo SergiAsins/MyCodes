@@ -1,2 +1,2 @@
-# FullStackOpen
-Here I have the exercises of the Open Course Full Stack of Helsinki University
+# MyCodes
+Here I have the codes & apps that I do everyday
